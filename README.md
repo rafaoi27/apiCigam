@@ -24,7 +24,7 @@ Cigam API
 
 Endereços de testes:
 http://srv-cigam:82/webservice/cigam/TesteBancoDados.ashx
-http://srv-cigam:82/webservicehomolog/cigam/TesteBancoDados.ashx
+http://187.44.162.250:8281/webservicehomolog/cigam/TesteBancoDados.ashx
 
 **Autores**
 
