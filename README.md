@@ -28,9 +28,10 @@ http://srv-cigam:82/webservicehomolog/cigam/TesteBancoDados.ashx
 
 **Autores**
 
-| Foto                                                                                                                             | Nome                      | GitHub                                   | Likedin                                                 | E-mail                    |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------- | ------------------------------------------------------- | ------------------------- |
-| <img src="" width="100px"> | Rafael Levi Batista Costa | [Levi](https://github.com/rafaellevissa) | [Linkedin]() | rafaellevissa@gmail.com |
+Foto | Nome | GitHub | Likedin | E-mail
+---- | ---- | ------ | ------- | ------
+<img src="" width="100px"> | Rafael Vasques Freitas | [rafaoi27](https://github.com/rafaoi27) | [Linkedin](https://www.linkedin.com/in/rafael-vasques-068339195/) | rafaoi27@gmail.com
+
 
 **Comandos**
 
